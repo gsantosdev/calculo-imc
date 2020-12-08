@@ -1,6 +1,6 @@
-# calculoimc
+# Calculo de IMC
 
-A new Flutter application.
+Uma aplicação sobre calculo de Índice de Massa Corporal.
 
 ## Getting Started
 
